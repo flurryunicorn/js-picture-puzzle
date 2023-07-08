@@ -5,11 +5,11 @@ Jigsaw Puzzle Game made with Javascript. Image for puzzle can be uploaded by use
 
 1) Download the project from repository 
 
-  ```git clone https://github.com/mrglaster/js-picture-puzzle/```
+  ```git clone https://github.com/flurryunicorn/js-picture-puzzle/```
 
 2) [Get the API key for ImgBB](https://imgbb.com/api)
 
-![alt text](https://github.com/mrglaster/js-picture-puzzle/blob/main/readme_images/image_5.png)
+![alt text](https://github.com/flurryunicorn/js-picture-puzzle/blob/main/readme_images/image_5.png)
 
 3) Find following lines in ```/scripts/main_menu.js```
 
@@ -23,13 +23,13 @@ Jigsaw Puzzle Game made with Javascript. Image for puzzle can be uploaded by use
 
 ### Screenshots
 
-![alt text](https://github.com/mrglaster/js-picture-puzzle/blob/main/readme_images/image_1.png)
+![alt text](https://github.com/flurryunicorn/js-picture-puzzle/blob/main/readme_images/image_1.png)
 
-![alt text](https://github.com/mrglaster/js-picture-puzzle/blob/main/readme_images/image_2.png)
+![alt text](https://github.com/flurryunicorn/js-picture-puzzle/blob/main/readme_images/image_2.png)
 
-![alt text](https://github.com/mrglaster/js-picture-puzzle/blob/main/readme_images/image_3.png)
+![alt text](https://github.com/flurryunicorn/js-picture-puzzle/blob/main/readme_images/image_3.png)
 
-![alt text](https://github.com/mrglaster/js-picture-puzzle/blob/main/readme_images/image_4.png)
+![alt text](https://github.com/flurryunicorn/js-picture-puzzle/blob/main/readme_images/image_4.png)
 
 
 ### Used Libraries
